@@ -1,0 +1,150 @@
+html,body
+{
+	background-image: url('99px_ru_wallpaper_346173_raiden_shogun__segun_rajden_iz_igri_genshin.png');
+	font-size: 1em;
+	font-family: Google Sans;
+}
+
+header
+{
+	font-size: 1.1em;
+	display: flex;
+	background-color: rgb(140, 110, 168);
+	color: rgb(49, 31, 80);
+	box-shadow: 0px 0px 15px rgba(0,0,0,0.6);
+	font-weight: bold;
+}
+::-webkit-input-placeholder {
+    /* WebKit browsers */
+    color: rgb(61, 74, 160);
+}
+nav a
+{
+	font-size: 1.2em;
+	color: rgb(124, 112, 179);
+}
+
+nav a:hover
+{
+	font-size: 1.2em;
+	color: #6239a4;
+	text-decoration: none;
+}
+
+.content
+{
+	color: rgb(93, 76, 152);
+	padding: 10px;
+	margin: 0 auto;
+	width: 50%;
+	font-size: 15px;
+}
+
+a
+{
+	text-decoration: none;
+	color: #50458e;
+}
+
+a:hover
+{
+	color: rgb(93, 59, 121);
+}
+
+table
+{
+	color: rgb(75, 50, 121);
+	margin-bottom: 2em;
+	box-shadow: 0px 0px 15px rgba(171, 152, 185, 0.6);
+}
+
+th 
+{
+
+	padding: 1.5em;
+}
+
+td 
+{
+	padding: 1.5em;
+}
+
+
+#form-text
+{
+	color: rgb(89, 56, 118);
+	display: flex;
+	font-weight: bold;
+	font-size: 2.2em;
+	padding-bottom: 1em;
+	justify-content: center;
+	font-family: Google Sans;
+}
+
+form
+{
+	padding-left: 2em;
+	color: rgb(119, 74, 151);
+	box-shadow: 0px 0px 15px rgba(125, 91, 156, 0.6);
+}
+
+input
+{
+	color: rgb(84, 64, 135);
+	font-family: Google Sans;
+	background-color: transparent;
+	border: 2px solid transparent;
+}
+
+input:hover
+{
+	color: rgb(105, 72, 140);
+	font-family: Google Sans;
+	background-color: transparent;
+	border: 2px solid #3e1e74;
+}
+select
+{
+	color: rgb(102, 60, 138);
+	padding: 10px;
+	font-family:Google Sans;
+	background-color: transparent;
+	border: 2px solid transparent;
+	height: 80px;
+}
+
+textarea
+{
+	color: rgb(101, 57, 130);
+	padding: 10px;
+	font-family: Google Sans;
+	background-color: transparent;
+	border: 2px solid transparent;
+}
+
+#bot 
+{
+	color: rgb(137, 110, 176);
+	margin-top: 30px;
+	font-family: Google Sans;
+	background-color: transparent;
+	border: 2px solid rgb(104, 56, 137);
+}
+
+#bot:hover
+{
+	color: #7e579b;
+	margin-top: 30px;
+	font-family: Google Sans;
+	background-color: transparent;
+	border: 2px solid #8d61a2;
+}
+
+footer
+{
+	margin-top: 5em;
+	background-color: rgb(137, 112, 174);
+	font-weight: bold;
+	color: rgb(72, 32, 92);
+	box-shadow: 0px 0px 15px rgba(0,0,0,0.6);
+}
